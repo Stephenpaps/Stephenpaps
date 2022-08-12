@@ -29,9 +29,13 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
 :man_technologist:About Me :
 
 I am an Security and Programmer Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+---
 
 :hammer_and_wrench: Languages and Tools :
 
@@ -43,6 +47,8 @@ I am an Security and Programmer Analyst <img src="https://media.giphy.com/media/
   <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" title="RedHat" alt="RedHat" width="40" height="40"/>&nbsp;
  </div>
  
+ ---
+ 
  ### :fire: My Stats :
  https://github-readme-streak-stats.herokuapp.com/?user=Stephenpaps
  
@@ -50,4 +56,4 @@ I am an Security and Programmer Analyst <img src="https://media.giphy.com/media/
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephenpaps&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
- 
+ ---
