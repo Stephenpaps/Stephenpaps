@@ -38,9 +38,10 @@ I am an Security and Programmer Analyst <img src="https://media.giphy.com/media/
 ---
 
 ## 🚀 Skills and Technologies
-- Programming Languages: Python, Java, JavaScript
-- Frameworks: React, Django, Spring
-- Tools: Git, Docker, Jenkins
+- Programming Languages: Python, Java
+- Frameworks: Selenium, Helium, Playwright
+- Tools: Git, Jmeter, Burp Suite, Nmap, Wireshark, DDOS
+- Database : Mongodb, SQL
  
  ---
  
