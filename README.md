@@ -1,36 +1,54 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Stephen%20Jack&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20Lead%20%E2%80%A2%20Test%20Automation%20%E2%80%A2%20AppSec%20%E2%80%A2%20AI-Driven%20QA&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,50:1e4d8c,100:c8102e&height=220&section=header&text=%E2%98%A0%EF%B8%8F%20Captain%20Stephen%20Jack&fontSize=44&fontColor=ffd700&animation=fadeIn&fontAlignY=36&desc=QA%20Pirate%20%E2%80%A2%20Bug%20Hunter%20of%20the%20Grand%20Line&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2EA8FF&center=true&vCenter=true&width=650&lines=I+break+things+so+customers+don't.;Playwright+%2B+Python+automation+engineer;API%2C+webhook+%26+security+testing;Building+an+AI+QA+team+with+Claude+Code+agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Set+sail+for+bug-free+seas!+%E2%9A%93;I'm+gonna+be+King+of+the+Testers!;Hunting+bugs+across+the+Grand+Line;Every+bug+has+a+bounty+%F0%9F%92%B0" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/stephenjqa/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Stephenpaps?tab=followers"><img src="https://img.shields.io/github/followers/Stephenpaps?label=Follow&style=for-the-badge&logo=github&color=24292e" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Stephenpaps&style=for-the-badge&color=2ea8ff&label=Profile+Views" />
+  <a href="https://www.linkedin.com/in/stephenjqa/"><img src="https://img.shields.io/badge/LinkedIn-Join_My_Crew-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Stephenpaps?tab=followers"><img src="https://img.shields.io/github/followers/Stephenpaps?label=Nakama&style=for-the-badge&logo=github&color=c8102e" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Stephenpaps&style=for-the-badge&color=ffd700&label=Ships+Sighted" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🏴‍☠️ Wanted Poster
 
-QA Engineer focused on building reliable, well-tested web products, from requirements to release.
-
-- 🎯 Turn requirements into clear test cases, automation and actionable bug reports
-- 🤖 Build end-to-end test automation with **Playwright + Python**
-- 🔐 Do security testing based on **OWASP** guidelines
-- 🔗 Test **REST APIs and webhooks**
-- 📊 Check product analytics and monitor production health
-- 🧠 Explore **AI-assisted QA** workflows with Claude Code
+```text
+ ╔══════════════════════════════════════╗
+ ║              W A N T E D             ║
+ ║            DEAD OR BUG-FREE          ║
+ ║                                      ║
+ ║     "Captain" STEPHEN JACK           ║
+ ║     Role   : QA Engineer             ║
+ ║     Crimes : Breaking apps before    ║
+ ║              users can               ║
+ ║                                      ║
+ ║     BOUNTY : ฿ 1,000,000,000 bugs    ║
+ ╚══════════════════════════════════════╝
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🧭 The Captain's Log
+
+QA Engineer sailing toward reliable, well-tested web products, from the first map (requirements) to the final treasure (release).
+
+- 🎯 Chart requirements into clear test cases, automation and bug reports
+- ⚔️ Build end-to-end test automation with **Playwright + Python**
+- 🛡️ Guard the ship with security testing based on **OWASP**
+- 🔗 Test **REST APIs and webhooks**
+- 🔭 Keep watch over production health and analytics
+- 🤖 Command an **AI crew** of Claude Code agents for faster QA
+
+---
+
+## ⚓ Devil Fruit Powers (Tech Stack)
 
 **Languages**
 
@@ -38,7 +56,7 @@ QA Engineer focused on building reliable, well-tested web products, from require
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bash,powershell" />
 </p>
 
-**Test Automation & QA**
+**⚔️ Automation Swords**
 
 <p>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
@@ -49,7 +67,7 @@ QA Engineer focused on building reliable, well-tested web products, from require
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
 </p>
 
-**Security Testing**
+**🛡️ Haki (Security)**
 
 <p>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
@@ -60,7 +78,7 @@ QA Engineer focused on building reliable, well-tested web products, from require
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-**Tools, Data & Collaboration**
+**🚢 Ship Supplies**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mongodb,mysql,vscode,figma,notion" />
@@ -77,54 +95,56 @@ QA Engineer focused on building reliable, well-tested web products, from require
 
 ---
 
-## 🚀 What I Do
+## 🗺️ The Crew's Voyages
 
-| Area | Focus |
+| Island | Adventure |
 |---|---|
-| 🧪 **Test Automation** | Maintainable Playwright + pytest frameworks using the page-object pattern |
-| 🔐 **Security Testing** | Access control, authentication and common web vulnerabilities |
-| 🔗 **API Testing** | Request/response validation and Postman collections |
-| 🚦 **Release QA** | Regression planning, staging and production checks, sign-off |
-| 🤖 **AI in QA** | Using AI agents to speed up test design, automation and reporting |
+| 🧪 **Automation Island** | Maintainable Playwright + pytest frameworks using the page-object pattern |
+| 🛡️ **Security Fortress** | Access control, authentication and common web vulnerabilities |
+| 🔗 **API Archipelago** | Request/response validation and Postman collections |
+| 🚦 **Release Harbor** | Regression planning, staging and production checks, sign-off |
+| 🤖 **AI Crew Quarters** | AI agents that speed up test design, automation and reporting |
 
 ---
 
-## 📊 GitHub Stats
+## 💰 Treasure Chest (GitHub Stats)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Stephenpaps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephenpaps&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Stephenpaps&show_icons=true&hide_border=true&count_private=true&bg_color=0b1d3a&title_color=ffd700&icon_color=c8102e&text_color=ffffff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephenpaps&layout=compact&hide_border=true&bg_color=0b1d3a&title_color=ffd700&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Stephenpaps&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Stephenpaps&hide_border=true&background=0b1d3a&ring=c8102e&fire=ffd700&currStreakLabel=ffd700&sideLabels=ffd700&currStreakNum=ffffff&sideNums=ffffff&dates=cccccc" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stephenpaps&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stephenpaps&bg_color=0b1d3a&color=ffd700&line=c8102e&point=ffffff&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 📜 QA Principles I Work By
+## 📜 The Pirate Code
 
 ```python
-class QAEngineer:
-    principles = [
-        "Every finding cites evidence",
+class QAPirate:
+    code = [
+        "Every bug reported comes with proof",
         "'Not run' and 'blocked' are honest answers",
-        "Production is sacred: approved cases only, one at a time",
-        "Mask PII. Never print secrets.",
-        "Automate the boring, explore the risky",
+        "Never sink the ship: test production with care",
+        "Guard the crew's secrets. Never print them.",
+        "Automate the boring seas, explore the stormy ones",
     ]
 ```
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Join My Crew!
 
-I'm open to collaborating on **test automation frameworks, API/security testing and AI-assisted QA**. If something here helped you, ⭐ a repo or hit **Follow**!
+> *"Bugs are the One Piece of software. Somewhere out there, one is hiding... and I'll find it!"*
+
+Looking for **nakama** who love test automation, API and security testing, and AI-assisted QA. Hit **Follow** and let's set sail together! ⛵
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8102e,50:1e4d8c,100:0b1d3a&height=120&section=footer" />
 </p>
