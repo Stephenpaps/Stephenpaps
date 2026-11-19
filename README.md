@@ -19,14 +19,14 @@
 
 ## 👨‍💻 About Me
 
-QA Engineer who owns quality end to end for an **identity-verification SaaS platform** (document + biometric verification, KYC, bank-account verification) across stage, sandbox and production.
+QA Engineer focused on building reliable, well-tested web products, from requirements to release.
 
-- 🎯 Turn Jira tickets into traceable test cases → automation → defects → release sign-off
-- 🤖 Build **Playwright + Python** suites that drive real user journeys, including **fake-camera ID capture** with ffmpeg-generated video streams
-- 🔐 Run authorized **OWASP-based security testing**: authN/authZ, IDOR, JWT tampering, headers, exposed endpoints
-- 🔗 Test **REST APIs and webhooks**: delivery, retries, delivery logs, schema and data consistency
-- 📊 Verify product analytics (**Mixpanel** event decoding, **Hotjar** session review) and run daily production monitoring
-- 🧠 Designed a **multi-agent AI QA department** with Claude Code: planner, test designer, automation, security, API, bug triage, release and audit agents with strict safety guardrails
+- 🎯 Turn requirements into clear test cases, automation and actionable bug reports
+- 🤖 Build end-to-end test automation with **Playwright + Python**
+- 🔐 Do security testing based on **OWASP** guidelines
+- 🔗 Test **REST APIs and webhooks**
+- 📊 Check product analytics and monitor production health
+- 🧠 Explore **AI-assisted QA** workflows with Claude Code
 
 ---
 
@@ -77,17 +77,15 @@ QA Engineer who owns quality end to end for an **identity-verification SaaS plat
 
 ---
 
-## 🚀 What I've Built & Shipped
+## 🚀 What I Do
 
-| Area | Highlights |
+| Area | Focus |
 |---|---|
-| 🧪 **E2E Automation** | Page-object Playwright framework (pytest, JSON reports) covering users, dashboards, themes editor, sidebar, workflows, onboarding/terms consent and announcement modals |
-| 📸 **ID & Selfie Capture Testing** | Fake-camera harness (ffmpeg → y4m) to automate front/back ID capture, retry guidance, liveness and mobile-gated flows in Chromium & WebKit |
-| 🔐 **Security Suite** | Automated checks for broken access control, IDOR, JWT `alg:none` forgery, missing headers and endpoint inventory, with PDF vulnerability reports and fix verification |
-| 🔗 **API & Webhooks** | Public API (v2) scenario testing, webhook delivery-log validation, Postman-compatible collections |
-| 📈 **Analytics QA & Monitoring** | Decoded Mixpanel tracking payloads to verify event contracts; daily production health checks with Hotjar + Mixpanel reports |
-| 🚦 **Release Management** | Stage → production verification for 40+ tickets, regression scoping, go/no-go recommendations, requirement → test → defect traceability |
-| 🤖 **AI QA Department** | 10 specialised Claude Code agents + reusable skills (`/daily-checkin`, `/generate-test-cases`, `/regression-run`, `/security-assessment`) with vendor-limit, PII and PROD-safety rules |
+| 🧪 **Test Automation** | Maintainable Playwright + pytest frameworks using the page-object pattern |
+| 🔐 **Security Testing** | Access control, authentication and common web vulnerabilities |
+| 🔗 **API Testing** | Request/response validation and Postman collections |
+| 🚦 **Release QA** | Regression planning, staging and production checks, sign-off |
+| 🤖 **AI in QA** | Using AI agents to speed up test design, automation and reporting |
 
 ---
 
